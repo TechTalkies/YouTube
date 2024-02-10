@@ -1,0 +1,12 @@
+D:\Work\VS Projects\TechTalkies HWM\TechTalkies HWM\bin\Release\TechTalkies HWM.exe.config
+D:\Work\VS Projects\TechTalkies HWM\TechTalkies HWM\bin\Release\TechTalkies HWM.exe
+D:\Work\VS Projects\TechTalkies HWM\TechTalkies HWM\bin\Release\TechTalkies HWM.pdb
+D:\Work\VS Projects\TechTalkies HWM\TechTalkies HWM\bin\Release\OpenHardwareMonitorLib.dll
+D:\Work\VS Projects\TechTalkies HWM\TechTalkies HWM\obj\Release\TechTalkies HWM.csproj.AssemblyReference.cache
+D:\Work\VS Projects\TechTalkies HWM\TechTalkies HWM\obj\Release\TechTalkies_HWM.Form1.resources
+D:\Work\VS Projects\TechTalkies HWM\TechTalkies HWM\obj\Release\TechTalkies_HWM.Properties.Resources.resources
+D:\Work\VS Projects\TechTalkies HWM\TechTalkies HWM\obj\Release\TechTalkies HWM.csproj.GenerateResource.cache
+D:\Work\VS Projects\TechTalkies HWM\TechTalkies HWM\obj\Release\TechTalkies HWM.csproj.CoreCompileInputs.cache
+D:\Work\VS Projects\TechTalkies HWM\TechTalkies HWM\obj\Release\TechTalkies HWM.csproj.CopyComplete
+D:\Work\VS Projects\TechTalkies HWM\TechTalkies HWM\obj\Release\TechTalkies HWM.exe
+D:\Work\VS Projects\TechTalkies HWM\TechTalkies HWM\obj\Release\TechTalkies HWM.pdb
