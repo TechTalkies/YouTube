@@ -1,0 +1,19 @@
+(footprint "Arduino_MountingHole" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
+  (tedit 0)
+  (attr smd)
+  (fp_text reference "REF**" (at 0 -6.81 unlocked) (layer "F.SilkS") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 9bf688c2-522e-4173-bc14-34d6185d52f9)
+  )
+  (fp_text value "Arduino_MountingHole" (at 0 -5.31 unlocked) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 64159640-74b2-4023-bf26-c60497834d15)
+  )
+  (fp_text user "${REFERENCE}" (at 0 -3.81 unlocked) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 1d89a944-43a4-4442-a59b-7f9415f32f6f)
+  )
+  (pad "" np_thru_hole circle (at 0 0) (size 3.19989 3.19989) (drill 3.19989) (layers F&B.Cu *.Mask)
+    (solder_mask_margin 0.5) (tstamp 49eb16af-f91f-49c0-8771-0d5e291257fc))
+)
