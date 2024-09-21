@@ -3,8 +3,9 @@ This page contains the code and supporting libraries for the below video.
 It is a video demonstrating how to load 3D models and view them on a webserver running on an ESP8266 board, using an MPU 6050 gyroscope and accelerometer sensor. 
 
 This project does not need the LittleFS library. You can load your 3D models directly from your device.
-
 Video link:
+
+
 [![Youtube Video](https://img.youtube.com/vi/08F5hAk-7Qk/0.jpg)](https://www.youtube.com/watch?v=08F5hAk-7Qk)
 
 
