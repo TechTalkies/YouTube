@@ -1,6 +1,6 @@
-# RGB Pixel Sand | Raspberry Pi Pico Project | With code
+# Arduino Temperature & Humidity Gauge
 This page contains the code and supporting libraries for the below video. 
-It is a video demonstrating A Raspberry Pi Pico project, using Circuit Python. It is pixel sand that is controlled by an MPU6050 gyroscope module. It is rendered on a 64x32 RGB matrix panel.
+It is a video demonstrating an Arduino nano project to make a smart temperature and humidity gauge. It is a beginner friendly project with code.
 
 Video link:
 
