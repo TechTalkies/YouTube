@@ -25,7 +25,6 @@ Servo myservo;
 DHT dht(DHTPIN, DHTTYPE);   
 float tempCelsius;    // temperature in Celsius
 
-unsigned long startMillis;
 unsigned long currentMillis;
 const unsigned long delayPeriod = 1000;
 
@@ -54,19 +53,16 @@ void setup() {
   pinMode(2, OUTPUT);
   myservo.attach(9);
   dht.begin();           // initialize the DHT sensor    
-
-  startMillis = millis();  //initial start time
 }
 
 void loop() {
   ArduinoCloud.update();
   // Your code here 
-
-  currentMillis = millis();  //get the current "time" 
-  if (currentMillis - startMillis >= delayPeriod)  //test whether the period has elapsed
+  if (millis() - currentMillis >= delayPeriod)  //test whether the period has elapsed
   {
     float t = dht.readTemperature();
     dHT11 = t;
+    currentMillis = millis();  //get the current "time" 
   }
   
 }
