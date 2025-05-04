@@ -34,6 +34,10 @@ This project is an RFID-based access control system powered by an ESP32, featuri
 | Input L     | ADC 1 (from MP3) |
 | Input G     | GND            |
 
+## Circuit Diagram
+
+![Circuit Diagram](./circuit.png)
+
 ## Libraries Used
 
 - [`DFRobotDFPlayerMini`](https://github.com/DFRobot/DFRobotDFPlayerMini)
