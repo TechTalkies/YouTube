@@ -36,7 +36,7 @@ This project is an RFID-based access control system powered by an ESP32, featuri
 
 ## Circuit Diagram
 
-![Circuit Diagram](./circuit.png)
+![Circuit Diagram](./circuit.jpg)
 
 ## Libraries Used
 
