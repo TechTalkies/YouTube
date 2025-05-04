@@ -2,6 +2,12 @@
 
 This project is an RFID-based access control system powered by an ESP32, featuring voice feedback using the DFPlayer Mini MP3 module. Upon scanning RFID cards, the system plays pre-recorded audio saying either "Access Granted" or "Access Denied". Ideal for DIY security setups or educational demonstrations.
 
+Video link:
+
+
+[![Youtube Video](https://img.youtube.com/vi/xNAp8qCeswo/0.jpg)](https://www.youtube.com/watch?v=xNAp8qCeswo)
+
+
 ## Connections
 
 ### RFID Module to ESP32
