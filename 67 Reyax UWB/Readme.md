@@ -20,23 +20,20 @@ This project demonstrates how to use the **Reyax RYUW122 Lite** Ultra-Wideband (
 
 Connect it via USB-to-Serial (3.3V only). Use Arduino Serial Monitor or any terminal software at **115200 baud**, and send the following commands:
 
-AT
-AT+MODE? // Should return 0 (TAG)
-AT+NETWORKID=100
-AT+ADDRESS=TAG1
+- AT
+- AT+MODE? // Should return 0 (TAG)
+- AT+NETWORKID=100
+- AT+ADDRESS=TAG1
 
 
 ### 2. Configure the ANCHOR module
 
 Repeat the above process for the second module and run:
 
-AT
-
-AT+MODE=1 // Set to ANCHOR
-
-AT+NETWORKID=100
-
-AT+ADDRESS=ANCH1
+- AT
+- AT+MODE=1 // Set to ANCHOR
+- AT+NETWORKID=100
+- AT+ADDRESS=ANCH1
 
 
 > ⚠️ Use the same `NETWORKID` for all modules. Each must have a unique `ADDRESS`.
