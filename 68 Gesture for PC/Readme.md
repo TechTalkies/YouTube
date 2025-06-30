@@ -45,4 +45,18 @@ Use promo code **`N891LZX6`** at checkout for a discount!
 | VCC                | 3.3V                    |
 | GND                | GND                     |
 
---
+---
+
+## 🧰 Libraries & Downloads
+
+To run this project, you'll need the following CircuitPython libraries:
+
+- 📦 **PAJ7620 Gesture Sensor Driver**  
+  [github.com/deshipu/circuitpython-paj7620](https://github.com/deshipu/circuitpython-paj7620)
+
+- 📦 **Adafruit CircuitPython Library Bundle** (contains HID & BusDevice)  
+  [circuitpython.org/libraries](https://circuitpython.org/libraries)
+
+After downloading:
+- Copy `adafruit_hid` and `adafruit_bus_device` folders into the `/lib` directory on your CIRCUITPY drive.
+- Copy `paj7620.py` (from the gesture sensor repo) into `/lib` or root.
