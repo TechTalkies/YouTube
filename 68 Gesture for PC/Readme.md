@@ -8,6 +8,12 @@ This project uses the **Seeed Xiao ESP32S3** and the **PAJ7620U2 gesture sensor*
 
 ---
 
+## 💸 Get Your ESP32S3 at a Discount
+
+[🛒 Buy the Seeed XIAO ESP32S3 from Seeed Studio](https://www.seeedstudio.com/XIAO-ESP32S3-p-5627.html?sensecap_affiliate=P9GHEkF&referring_service=link)
+
+Use promo code **`N891LZX6`** at checkout for a discount!
+
 ## 🎥 Video Demo + Tutorial
 
 📺 [Watch the full video tutorial here](https://www.youtube.com/watch?v=6lv5Pc7rqZE)
