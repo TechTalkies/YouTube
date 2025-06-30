@@ -4,15 +4,17 @@ Control your PC using simple hand gestures — play/pause music, skip tracks, ad
 
 This project uses the **Seeed Xiao ESP32S3** and the **PAJ7620U2 gesture sensor**, powered by **CircuitPython**.
 
-[![YouTube Video](https://img.youtube.com/vi/6lv5Pc7rqZE/0.jpg)](https://www.youtube.com/watch?v=6lv5Pc7rqZE)
-
----
-
 ## 💸 Get Your ESP32S3 at a Discount
 
 [🛒 Buy the Seeed XIAO ESP32S3 from Seeed Studio](https://www.seeedstudio.com/XIAO-ESP32S3-p-5627.html?sensecap_affiliate=P9GHEkF&referring_service=link)
 
 Use promo code **`N891LZX6`** at checkout for a discount!
+
+---
+
+[![YouTube Video](https://img.youtube.com/vi/6lv5Pc7rqZE/0.jpg)](https://www.youtube.com/watch?v=6lv5Pc7rqZE)
+
+---
 
 ## 🎥 Video Demo + Tutorial
 
