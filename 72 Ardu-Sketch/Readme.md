@@ -37,6 +37,8 @@ It’s oddly satisfying, incredibly simple, and perfect for beginners or nostalg
 
 > 🟡 Note: Adjust pins in code if needed
 
+![BYTE-A-SKETCH Demo](circuit_bb.jpg)
+
 ## 🧠 How It Works  
 Each encoder controls a direction — left knob moves vertically, right moves horizontally.  
 You “draw” pixel by pixel as you move the knobs, and can clear the canvas at any time.  
