@@ -19,6 +19,10 @@ This is a beginner-friendly Arduino project where a simple robot detects fire us
 
 ---
 
+![Circuit Diagram](./circuit_bb.png)
+
+---
+
 ## ⚙️ How It Works
 
 - The flame sensors continuously scan for infrared radiation.
