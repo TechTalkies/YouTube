@@ -1,3 +1,13 @@
+/* -------------------------------------------------
+IMPORTANT!
+This code works only till ESP32 core (boards) version 3.2.0.
+Downgrade if you have compilation errors.
+
+Copyright (c)
+Arduino project by Tech Talkies YouTube Channel.
+https://www.youtube.com/@techtalkies1
+-------------------------------------------------*/
+
 #include <BleMouse.h>
 #include <Adafruit_MPU6050.h>
 
