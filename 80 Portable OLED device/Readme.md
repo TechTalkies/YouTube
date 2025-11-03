@@ -4,7 +4,7 @@ This project turns the Seeed Studio XIAO nRF52840 Sense (or compatible board) in
 
 It uses an OLED display, onboard sensors, and a single button for control, allowing you to quickly experiment with compact embedded experiences like a maze game, flappy bird, dB meter, Bluetooth scanner, and more.
 
-## 💸 Get Your ESP32S3 at a Discount
+## 💸 Get Your nRF52840 at a Discount
 
 [🛒 Buy the Seeed XIAO nRF52840 from Seeed Studio](https://www.seeedstudio.com/Seeed-Studio-XIAO-nRF52840-Sense-Plus-p-6360.html?sensecap_affiliate=P9GHEkF&referring_service=link)
 
