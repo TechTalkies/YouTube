@@ -4,7 +4,7 @@ Visualize nearby Wi-Fi activity in real time using an ESP32 microcontroller and 
 
 Ideal for network tinkerers, security hobbyists, or just curious tech folks who want to see the invisible chatter of Wi-Fi around them.
 
-[![YouTube Video](https://img.youtube.com/vi/qju-e4JQrVQ/0.jpg)](https://www.youtube.com/watch?v=qju-e4JQrVQ)
+[![YouTube Video](https://img.youtube.com/vi/wB0XThfc2Rk/0.jpg)](https://www.youtube.com/watch?v=wB0XThfc2Rk)
 
 ---
 
