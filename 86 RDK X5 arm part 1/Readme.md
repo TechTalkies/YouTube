@@ -81,6 +81,7 @@ Update the model path in the script.
 - Vosk: https://alphacephei.com/vosk/
 - PCA9685 driver: https://github.com/sigmondkukla/Python_PCA9685
 - X5 software: https://archive.d-robotics.cc/
+- 3D print: https://www.printables.com/model/449747-brazo-robotico-robotic-arm
 
 
 ## Notes
