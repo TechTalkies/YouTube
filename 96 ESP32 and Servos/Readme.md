@@ -5,6 +5,10 @@ It starts with basic servo control and gradually builds up to controlling **mult
 
 The final example allows controlling **5 servos from a web page using sliders**, with options to **lock all servos together or reset them to zero**.
 
+Video tutorial:
+
+[![Youtube Video](https://img.youtube.com/vi/tuEg8GfBlBA/0.jpg)](https://www.youtube.com/watch?v=tuEg8GfBlBA)
+
 ---
 
 ## Features
