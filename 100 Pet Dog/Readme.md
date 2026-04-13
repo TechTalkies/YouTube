@@ -4,7 +4,7 @@ A voice-controlled quadruped robot built with the **Seeed XIAO ESP32S3**, **ESP-
 
 Video tutorial:
 
-[![Youtube Video](https://img.youtube.com/vi/tuEg8GfBlBA/0.jpg)](https://www.youtube.com/watch?v=tuEg8GfBlBA)
+[![Youtube Video](https://img.youtube.com/vi/QQHyo7KlaQk/0.jpg)](https://www.youtube.com/watch?v=QQHyo7KlaQk)
 
 [Buy a Xiao ESP32S3 Sense board](https://www.seeedstudio.com/XIAO-ESP32S3-Sense-p-5639.html?sensecap_affiliate=P9GHEkF&referring_service=link)
 ---
