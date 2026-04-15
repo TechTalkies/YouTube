@@ -1,0 +1,75 @@
+dependencies:
+  espressif/dl_fft:
+    component_hash: 
+      7dadbd644c0d7ba4733cc3726ec4cff6edf27b043725e1115861dec1609a3d28
+    dependencies:
+    - name: idf
+      require: private
+      version: '>=5.0'
+    source:
+      registry_url: https://components.espressif.com
+      type: service
+    version: 0.3.1
+  espressif/esp-dsp:
+    component_hash: 
+      42dce32d46ac93dc11f60d368e29a830e9661c7345d794b8a45c343479cae636
+    dependencies:
+    - name: idf
+      require: private
+      version: '>=4.2'
+    source:
+      registry_url: https://components.espressif.com
+      type: service
+    version: 1.7.0
+  espressif/esp-sr:
+    component_hash: 
+      c518b25995cf03021a09442feedb7e40acba9f15d6aa903ebdfe0f657b08197b
+    dependencies:
+    - name: espressif/dl_fft
+      registry_url: https://components.espressif.com
+      require: private
+      version: '>=0.2.0'
+    - name: espressif/esp-dsp
+      registry_url: https://components.espressif.com
+      require: private
+      version: 1.7.0
+    - name: idf
+      require: private
+      version: '>=5.0'
+    source:
+      registry_url: https://components.espressif.com/
+      type: service
+    version: 2.4.0
+  espressif/esp_codec_dev:
+    component_hash: 
+      1a3a2e518cd8b52e8796ec393a4050977f8f113599056faf085a02a57e194f86
+    dependencies:
+    - name: idf
+      require: private
+      version: '>=4.0'
+    source:
+      registry_url: https://components.espressif.com/
+      type: service
+    version: 1.1.0
+  espressif/led_strip:
+    component_hash: 
+      28c6509a727ef74925b372ed404772aeedf11cce10b78c3f69b3c66799095e2d
+    dependencies:
+    - name: idf
+      require: private
+      version: '>=4.4'
+    source:
+      registry_url: https://components.espressif.com/
+      type: service
+    version: 2.5.5
+  idf:
+    source:
+      type: idf
+    version: 5.5.2
+direct_dependencies:
+- espressif/esp-sr
+- espressif/esp_codec_dev
+- espressif/led_strip
+manifest_hash: d82e9b6f47c53cfbf63d1a24dcae3d13a15a94add06eee4b2c778ee658d8132c
+target: esp32s3
+version: 2.0.0
