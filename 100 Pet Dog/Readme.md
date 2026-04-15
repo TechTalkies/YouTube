@@ -73,5 +73,8 @@ Video tutorial:
 4. Upload
 5. Done — no drivers, no terminal
 
+### Build and flash yourself
+
+Source code is included in this repo. You can build or modify it using ESP IDF. More details in the readme file of the source code.
 
 *Made with ☕ and too many brownout resets — [Tech Talkies](https://techtalkies.in)*
