@@ -68,6 +68,8 @@ Video tutorial:
 
 > **Recommendation:** It is a good idea to keep a small assortment of M2 screws in 3mm, 4mm, 5mm, 6mm, and 10mm lengths, so you are not left without options while building or making adjustments.
 
+> Note: The lower screw of the charge module does not necessarily need a nut.
+
 ---
 ## 🔧 Circuit diagram
 
