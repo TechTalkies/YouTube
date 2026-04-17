@@ -62,9 +62,11 @@ Video tutorial:
 |------------|----------|----------------------------------------------------------|---------|
 | M2 x 6mm   | 6        | Attach lower and upper body, power switch, ears          | Can be longer, but not shorter        |
 | M2 x 10mm  | 2        | Charge module mounting                                   | Can be longer, but not shorter        |
-| M2 x 4mm   | 8        | PCB and PCB base mounting                                | Exact size reccommended        |
+| M2 x 4mm   | 8        | PCB and PCB base mounting                                | Exact size recommended        |
 | M2 Nuts    | 6        | Used with M2 screws                                      | For switch, charge module & ears         |
 | M2.5 x 8mm | 1        | Servo arm screw                                          | The default screws are too short to attach the legs        |
+
+> **Recommendation:** It is a good idea to keep a small assortment of M2 screws in 3mm, 4mm, 5mm, 6mm, and 10mm lengths, so you are not left without options while building or making adjustments.
 
 ---
 ## 🔧 Circuit diagram
