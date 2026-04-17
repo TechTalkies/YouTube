@@ -56,6 +56,16 @@ Video tutorial:
 
 > All servo **signal wires** connect to the GPIO pins above. Power and GND go to the power pins of the boost module, **not** the XIAO.
 
+## 🔩 Screw List
+
+| Item       | Quantity | Description                                              | Comment |
+|------------|----------|----------------------------------------------------------|---------|
+| M2 x 6mm   | 6        | Attach lower and upper body, power switch, ears          | Can be longer, but not shorter        |
+| M2 x 10mm  | 2        | Charge module mounting                                   | Can be longer, but not shorter        |
+| M2 x 4mm   | 8        | PCB and PCB base mounting                                | Exact size reccommended        |
+| M2 Nuts    | 6        | Used with M2 screws                                      | For switch, charge module & ears         |
+| M2.5 x 8mm | 1        | Servo arm screw                                          | The default screws are too short to attach the legs        |
+
 ---
 ## 🔧 Circuit diagram
 
