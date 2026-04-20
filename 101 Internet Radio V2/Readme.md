@@ -1,16 +1,15 @@
 # Tech Talkies Internet Radio
 ### Standalone WiFi Internet Radio · XIAO ESP32S3 + ST7735 + KY-040
 
-Build Video:
-
-[![Youtube Video](https://img.youtube.com/vi/bMNfIRJxYcE/0.jpg)](https://www.youtube.com/watch?v=bMNfIRJxYcE)
-
-[Buy a Xiao ESP32S3 Sense board](https://www.seeedstudio.com/XIAO-ESP32S3-Sense-p-5639.html?sensecap_affiliate=P9GHEkF&referring_service=link)
----
-
 A fully standalone internet radio receiver built on the XIAO ESP32S3.
 Streams from 30,000+ free stations via the [Radio Browser API](https://www.radio-browser.info/) —
 no subscriptions, no API keys, no cloud dependency.
+
+## Build Video:
+
+[![Youtube Video](https://img.youtube.com/vi/bMNfIRJxYcE/0.jpg)](https://www.youtube.com/watch?v=bMNfIRJxYcE)
+
+## [Buy a Xiao ESP32S3 Sense board](https://www.seeedstudio.com/XIAO-ESP32S3-Sense-p-5639.html?sensecap_affiliate=P9GHEkF&referring_service=link)
 
 ---
 
