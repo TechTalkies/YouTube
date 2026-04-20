@@ -31,11 +31,11 @@ no subscriptions, no API keys, no cloud dependency.
 
 | Component | Link |
 |---|---|
-| Seeed XIAO ESP32S3 | [Buy →](https://www.seeedstudio.com/XIAO-ESP32S3-p-5627.html) |
+| Seeed XIAO ESP32S3 | [Buy →](https://www.seeedstudio.com/XIAO-ESP32S3-Sense-p-5639.html?sensecap_affiliate=P9GHEkF&referring_service=link) |
 | 1.8" ST7735 TFT (160×128) | — |
 | MAX98357A I2S Amplifier | — |
 | KY-040 Rotary Encoder | — |
-| 8Ω Speaker | — |
+| 8Ω 2W Speaker| — |
 
 ---
 
@@ -61,7 +61,7 @@ no subscriptions, no API keys, no cloud dependency.
 | D9 | BCLK |
 | D10 | LRC |
 | D8 | DIN |
-| 3.3V | VIN |
+| External 5V | VIN |
 | GND | GND |
 
 ### KY-040 Rotary Encoder
@@ -87,9 +87,9 @@ Install all via Arduino Library Manager unless noted.
 | Library | Source |
 |---|---|
 | ESP32-audioI2S | [GitHub](https://github.com/schreibfaul1/ESP32-audioI2S) |
-| Adafruit ST7735 and ST7789 Library | Arduino Library Manager |
-| Adafruit GFX Library | Arduino Library Manager |
-| ArduinoJson | Arduino Library Manager |
+| Adafruit ST7735 and ST7789 Library | [Github](https://github.com/adafruit/Adafruit-ST7735-Library) |
+| Adafruit GFX Library | [Github](https://github.com/adafruit/Adafruit-gfx-library) |
+| ArduinoJson | [Website](https://arduinojson.org/) |
 
 ---
 
