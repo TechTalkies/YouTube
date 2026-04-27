@@ -53,6 +53,17 @@ Perfect for:
 | RX | 1 |
 | VCC / GND | 5V / GND |
 
+### PAM8403 → DFPlayer Mini & Speaker
+ 
+| PAM8403 | Connects to |
+|---|---|
+| VCC / GND | 5V / GND |
+| Input L | DFPlayer DAC_L |
+| Input R | DFPlayer DAC_R |
+| Input G | DFPlayer Gnd |
+| Left OUT+ / OUT− | Left speaker terminals |
+| Right OUT+ / OUT− | Right speaker terminals |
+
 ### SH1106 OLED → ESP32
 
 | OLED | ESP32 |
