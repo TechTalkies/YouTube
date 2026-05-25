@@ -1,11 +1,11 @@
 # AI Pendant — XIAO ESP32S3 Sense + Xiaozhi AI
 
-> **Watch the build video:** [How I built this AI Pendant using an ESP32](https://www.youtube.com/@techtalkies1)
+> **Watch the build video:** [How I built this AI Pendant using an ESP32](https://www.youtube.com/watch?v=LWyI_kz2pQo)
 
 A wearable AI pendant built around the **Seeed Studio XIAO ESP32S3 Sense** and the open-source **Xiaozhi AI** firmware. It listens, responds, and can see — all in a 3D printed enclosure small enough to wear.
 
 Watch here:
-[![Youtube Video](https://img.youtube.com/vi/QQHyo7KlaQk/0.jpg)](https://www.youtube.com/watch?v=QQHyo7KlaQk)
+[![Youtube Video](https://img.youtube.com/vi/LWyI_kz2pQo/0.jpg)](https://www.youtube.com/watch?v=LWyI_kz2pQo)
 ---
 
 ## Features
