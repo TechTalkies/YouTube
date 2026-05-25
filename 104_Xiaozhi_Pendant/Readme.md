@@ -77,4 +77,5 @@ This project builds on [Xiaozhi ESP32](https://github.com/78/xiaozhi-esp32) — 
 ---
 
 *If you found this useful, consider subscribing to [Tech Talkies](https://www.youtube.com/@techtalkies1) for more electronics and DIY tech builds.*
+
 *Made with ☕ and too many brownout resets — [Tech Talkies](https://techtalkies.in)*
