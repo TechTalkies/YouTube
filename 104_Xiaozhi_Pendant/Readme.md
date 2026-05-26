@@ -50,6 +50,8 @@ No build environment needed — flash directly from your browser:
 
 ![Circuit Diagram](Circuit.png)
 
+![Circuit Diagram](Circuit2.png)
+
 ### I2S Speaker (MAX98357A)
 
 | XIAO ESP32S3 | MAX98357A |
