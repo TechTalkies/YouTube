@@ -45,6 +45,10 @@ Watch here:
 
 The onboard PDM microphone requires no external wiring — only the speaker amp and PTT button need to be connected.
 
+## Connection diagram
+
+![Circuit Diagram](Circuit.png)
+
 ---
 
 ## Software Setup
