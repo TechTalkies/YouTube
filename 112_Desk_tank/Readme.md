@@ -64,6 +64,7 @@ Both pins per motor are PWM-capable — direction and speed are set by PWMing on
 
 > Check your specific ESP32-C3 board's silkscreen — the C3 has no fixed I2C pins, so confirm before wiring.
 
+![Circuit Diagram](Circuit.png)
 ---
 
 ## Software Setup
