@@ -4,7 +4,7 @@ A tiny tracked desk robot built around an ESP32-C3, controlled entirely from a p
 
 Built by [Tech Talkies](https://www.youtube.com/@techtalkies1).
 
-![platform](https://img.shields.io/badge/platform-ESP32--C3-blue) ![framework](https://img.shields.io/badge/framework-Arduino-00979D) ![license](https://img.shields.io/badge/license-MIT-green)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-29ABE0?logo=kofi&logoColor=white)](https://ko-fi.com/techtalkies) ![platform](https://img.shields.io/badge/platform-ESP32--C3-blue) ![framework](https://img.shields.io/badge/framework-Arduino-00979D) ![license](https://img.shields.io/badge/license-MIT-green)
 
 ## Build Video:
 (Click image to view)
