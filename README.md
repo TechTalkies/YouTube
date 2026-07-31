@@ -2,6 +2,10 @@
 
 This repository contains all the Arduino and electronics-related code from my YouTube videos. Each folder corresponds to a separate video or topic, with code examples, wiring tables, and useful documentation.
 
+Support our open source projects:
+
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-29ABE0?logo=kofi&logoColor=white)](https://ko-fi.com/techtalkies)
+
 ## 📁 Folder Structure
 
 Each subfolder is named after the video/project and includes:
