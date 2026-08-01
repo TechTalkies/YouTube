@@ -18,6 +18,8 @@ Watch the build and gameplay on the Tech Talkies YouTube channel.
 
 ---
 
+[![Ko-fi](https://techtalkies.github.io/support_me_256.png)](https://ko-fi.com/techtalkies)
+
 ## Features
 
 - 🎮 6 Built-in Games
@@ -186,5 +188,3 @@ If you build one, I'd love to see it!
 Created by **Tech Talkies**
 
 📺 https://www.youtube.com/@techtalkies1
-
-[![Youtube Video](https://techtalkies.github.io/support_me.png)](https://ko-fi.com/techtalkies)
