@@ -3,6 +3,10 @@
 
 Unlike most DIY flight radar projects, this version doesn't require complicated display boards or expensive modules. The ESP32 connects directly to the OpenSky Network API, downloads aircraft positions, and displays them on a smooth animated radar interface.
 
+Support our open source projects:
+
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-29ABE0?logo=kofi&logoColor=white)](https://ko-fi.com/techtalkies)
+
 ## Build Video:
 
 [![Youtube Video](https://img.youtube.com/vi/KuVckV0wF9w/0.jpg)](https://www.youtube.com/watch?v=KuVckV0wF9w)
