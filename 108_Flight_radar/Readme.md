@@ -11,6 +11,8 @@ Support our open source projects:
 
 [![Youtube Video](https://img.youtube.com/vi/KuVckV0wF9w/0.jpg)](https://www.youtube.com/watch?v=KuVckV0wF9w)
 ---
+[![Ko-fi](https://techtalkies.github.io/support_me_256.png)](https://ko-fi.com/techtalkies)
+
 ## Features
 
 - Live aircraft tracking
