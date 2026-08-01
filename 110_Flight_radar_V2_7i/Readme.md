@@ -2,6 +2,10 @@
 
 A real-time Flight Radar built using the **Elecrow 7-inch CrowPanel Advance HMI Display**. The project downloads live aircraft data from the **OpenSky Network API** and displays nearby aircraft on an animated radar with a touchscreen interface.
 
+Support our open source projects:
+
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-29ABE0?logo=kofi&logoColor=white)](https://ko-fi.com/techtalkies)
+
 Video tutorial:
 
 [![Youtube Video](https://img.youtube.com/vi/_Vu7CyQgKxw/0.jpg)](https://www.youtube.com/watch?v=_Vu7CyQgKxw)
