@@ -84,6 +84,8 @@ Use the following pin assignment for the hardware build used by this project.
 | **GPIO 41** | **CS** — Chip Select |
 | **GPIO 42** | **BLK** — Backlight |
 
+![Circuit Diagram](./circuit.png)
+
 ## Getting Started
 
 There are two useful ways to approach this project.
