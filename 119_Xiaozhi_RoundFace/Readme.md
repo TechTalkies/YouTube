@@ -84,6 +84,15 @@ Use the following pin assignment for the hardware build used by this project.
 | **GPIO 41** | **CS** — Chip Select |
 | **GPIO 42** | **BLK** — Backlight |
 
+> [!WARNING]
+> **Check your board before wiring.**
+>
+> The GPIO numbers shown in the wiring diagram are specific to the **ESP32-S3 Dev Kit** used in the diagram. Different ESP32-S3 boards may have different pin layouts, labels, or onboard connections.
+>
+> **Always use the connection tables above as the authoritative wiring reference.** The diagram is provided for visual guidance only.
+>
+> If you are using a different ESP32-S3 board, **do not assume these connections are compatible**. Check your board's pinout and adapt the wiring accordingly.
+
 ![Circuit Diagram](./circuit.png)
 
 ## Getting Started
