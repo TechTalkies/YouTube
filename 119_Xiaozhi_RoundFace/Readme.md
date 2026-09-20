@@ -93,7 +93,7 @@ Use the following pin assignment for the hardware build used by this project.
 >
 > If you are using a different ESP32-S3 board, **do not assume these connections are compatible**. Check your board's pinout and adapt the wiring accordingly.
 
-![Circuit Diagram](./circuit.png)
+<!---![Circuit Diagram](./circuit.png)>--->
 
 ## Getting Started
 
