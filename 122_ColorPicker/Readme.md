@@ -26,7 +26,7 @@ The project is built around a [**Xiao ESP32-S3**](https://www.seeedstudio.com/XI
 |---|---|---|
 | Xiao ESP32-S3 | Main controller | [Buy](https://www.seeedstudio.com/XIAO-ESP32S3-p-5627.html?sensecap_affiliate=P9GHEkF&referring_service=link) |
 | TCS34725 | RGB + clear-light color sensor |
-| ST7789 | 172 × 320 color display | [Buy](https://www.seeedstudio.com/1-47inch-172x320-Resolution-LCD-Display-Module-p-5756.html?sensecap_affiliate=P9GHEkF&referring_service=link) |
+| 1.47" LCD  | 172 × 320 color display | [Buy](https://www.seeedstudio.com/1-47inch-172x320-Resolution-LCD-Display-Module-p-5756.html?sensecap_affiliate=P9GHEkF&referring_service=link) |
 | 3 × Push buttons | Left, Center and Right controls |
 
 ## Connections
@@ -51,6 +51,7 @@ The display connections used by the supplied Arduino code are:
 |---|---:|
 | SDA | GPIO 5 |
 | SCL | GPIO 6 |
+| LED | GPIO 4 |
 | VCC | 3.3 V |
 | GND | GND |
 
