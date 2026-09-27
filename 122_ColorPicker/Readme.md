@@ -1,12 +1,13 @@
 # Real Life Color Picker
 
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-29ABE0?logo=kofi&logoColor=white)](https://ko-fi.com/techtalkies) ![platform](https://img.shields.io/badge/platform-ESP32--S3-blue) ![framework](https://img.shields.io/badge/-Arduino-00979D) ![license](https://img.shields.io/badge/license-MIT-green)
+
 I built this **IRL Color Picker** because I often come across colors in the real world that I want to use in a design. Instead of trying to remember a color or take a photo and work it out later, this device lets me point the sensor at something, scan its color, and get an RGB/HEX value.
 
 The project is built around a [**Xiao ESP32-S3**](https://www.seeedstudio.com/XIAO-ESP32S3-p-5627.html?sensecap_affiliate=P9GHEkF&referring_service=link), a **TCS34725 color sensor**, and an [**1.47" ST7789 color display**](https://www.seeedstudio.com/1-47inch-172x320-Resolution-LCD-Display-Module-p-5756.html?sensecap_affiliate=P9GHEkF&referring_service=link).
 
-[![Watch the video](https://img.youtube.com/vi/XO6Na3-kmec/maxresdefault.jpg)](https://youtu.be/XO6Na3-kmec)
-
-**Video:** https://youtu.be/XO6Na3-kmec
+## Full build video
+[![Watch the video](./thumb2.png)](https://youtu.be/XO6Na3-kmec)
 
 ## Features
 
@@ -21,11 +22,11 @@ The project is built around a [**Xiao ESP32-S3**](https://www.seeedstudio.com/XI
 
 ## Hardware
 
-| Component | Description |
-|---|---|
-| ESP32-S3 | Main controller |
+| Component | Description | Link |
+|---|---|---|
+| Xiao ESP32-S3 | Main controller | [Buy](https://www.seeedstudio.com/XIAO-ESP32S3-p-5627.html?sensecap_affiliate=P9GHEkF&referring_service=link) |
 | TCS34725 | RGB + clear-light color sensor |
-| ST7789 | 172 × 320 color display |
+| ST7789 | 172 × 320 color display | [Buy](https://www.seeedstudio.com/1-47inch-172x320-Resolution-LCD-Display-Module-p-5756.html?sensecap_affiliate=P9GHEkF&referring_service=link) |
 | 3 × Push buttons | Left, Center and Right controls |
 
 ## Connections
@@ -41,6 +42,8 @@ The display connections used by the supplied Arduino code are:
 | RST | GPIO 4 |
 | MOSI / DIN | GPIO 44 |
 | SCLK / CLK | GPIO 7 |
+| VCC | 3.3 V |
+| GND | GND |
 
 ### TCS34725 Color Sensor
 
@@ -55,11 +58,11 @@ The display connections used by the supplied Arduino code are:
 
 The buttons are configured with `INPUT_PULLUP`, so each button connects its GPIO to GND when pressed.
 
-| Button | ESP32-S3 |
-|---|---:|
-| Left | GPIO 1 |
-| Center | GPIO 2 |
-| Right | GPIO 43 |
+| Button | Pin 1 | Pin 2|
+|---|---|---:|
+| Left | GPIO 1 | Gnd|
+| Center | GPIO 2 |Gnd|
+| Right | GPIO 43 |Gnd|
 
 ## Controls
 
@@ -196,9 +199,9 @@ The accompanying Arduino sketch is the reference implementation for the project:
 
 The code is intentionally kept as a single Arduino sketch so it can be opened and uploaded directly from the Arduino IDE once the required libraries are installed.
 
-## Video
+## License
 
-[![IRL Color Picker](https://img.youtube.com/vi/XO6Na3-kmec/maxresdefault.jpg)](https://youtu.be/XO6Na3-kmec)
+Please give credit back to the Channel or this repo when using the code.
 
 **Watch the build:** https://youtu.be/XO6Na3-kmec
 
