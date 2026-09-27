@@ -69,16 +69,15 @@ The buttons are configured with `INPUT_PULLUP`, so each button connects its GPIO
 
 | Screen | Button | Action |
 |---|---|---|
-| Main menu | Left / Right | Select Scan or Browse |
+| Main menu | Right | Move menu selection |
 | Main menu | Center | Enter selected mode |
-| Scan | Right — hold | Start live color scanning |
-| Live scan | Right — release | Stop scanning |
+| Scan | Right | Start live color scanning |
+| Live scan | Right (When scanning) | Stop scanning |
 | Result | Center | Save color |
 | Result | Left | Discard color |
 | Browse | Left / Right | Previous / next saved color |
-| Browse | Center | Delete selected color |
-| Delete confirmation | Center | Confirm deletion |
-| Delete confirmation | Left | Cancel |
+| Browse | Center | Show options |
+| Browse | Center - Hold | Exit browse mode |
 
 ## Color Reading
 
